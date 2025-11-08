@@ -1,0 +1,49 @@
+=================================================================
+GitHub リポジトリの About 設定用テキスト
+=================================================================
+
+【Description（説明）】
+JPy-DataReaderの包括的な日本語チュートリアル。初心者から上級者まで、e-Statから日本の政府統計データを取得・分析する方法を段階的に学べます。全6章、練習問題30問、サンプルコード100以上を収録。
+
+【英語版】
+Comprehensive Japanese tutorial for JPy-DataReader. Learn how to fetch and analyze Japanese government statistics from e-Stat, from beginner to advanced level. 6 chapters, 30 exercises, 100+ code examples.
+
+【Website（ウェブサイト）】
+https://github.com/kkawailab/jpy-datareader
+
+【Topics（トピック/タグ）】
+以下のトピックを追加することをお勧めします：
+
+- python
+- tutorial
+- data-analysis
+- japan
+- statistics
+- e-stat
+- pandas
+- datareader
+- government-data
+- japanese
+- open-data
+- データ分析
+- チュートリアル
+- 統計データ
+
+=================================================================
+GitHub UI での設定手順
+=================================================================
+
+1. https://github.com/kkawailab/jpy-datareader-tutorial にアクセス
+2. リポジトリページの右上にある「⚙️ Settings」をクリック
+   （またはリポジトリ名の下にある「About」の右側の⚙️をクリック）
+3. Description欄に上記の説明文を貼り付け
+4. Website欄に https://github.com/kkawailab/jpy-datareader を入力
+5. Topics欄で上記のトピックを追加
+6. 「Save changes」をクリック
+
+または、リポジトリのトップページで：
+1. 右側の「About」セクションの⚙️（設定アイコン）をクリック
+2. 上記の内容を入力
+3. 「Save changes」をクリック
+
+=================================================================
